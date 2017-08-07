@@ -7,7 +7,7 @@
 | 服务注册中心      | Spring Cloud Eureka |
 | 服务调用方式      | RESTful API         |  
 | 服务网关         | Spring Cloud Zuul |       
-|断路器|Spring Cloud Hystrix |
+|断路器            |Spring Cloud Hystrix |
 |配置中心|Spring Cloud Config|
 |服务跟踪|Spring Cloud Sleuth|
 |消息总线|Spring Cloud Bus|
@@ -20,3 +20,11 @@
       服务端：服务注册中心
 
       客户端：服务提供者／服务消费者
+
+
+### 借鉴
+  > [Spring Cloud对比Dubbo](http://dockone.io/article/2408)
+
+  > [Spring Cloud  与 Docker 实战](https://eacdy.gitbooks.io/-spring-cloud-docker/content/2%20Spring%20Cloud%20基础组件/2%20Spring%20Cloud基础组件.html)
+
+  >[官方文档](http://projects.spring.io/spring-cloud/spring-cloud.html)
